@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.header{
+    background-color: #f8f9fa;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 66px;
+    align-items: center;
+
+}
+.logo{
+    
+    margin: 3rem 6rem;
+}
+a{
+    text-decoration: none;
+}
+.signup{
+  
+    margin: 3rem 6rem;
+  background-color: #0d6efd;
+  padding: 16px 14px;
+  border-radius: 5px;
+}
+.logo a{
+    font-size: 20px;
+    color: #000000E6;
+}
+.signup a{
+    color: white;
+    font-size: 16px;
+}
+
+.first{
+    width: 100%;
+    height: 660px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+}
+.text h1{
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+.text{
+   
+  padding-top: 250px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+
+
+
+}
+.email1 input{
+ width: 636px;
+    border-radius: 5px;
+    padding: 0 20px;
+    outline: none;
+
+
+}
+.email1{
+margin: auto;
+    text-align: center;
+    display: flex;
+width: 650px;
+margin-top: 30px;
+    
+
+}
+.btn button{
+   padding: 20px 30px;
+   border-radius: 12px;
+  background-color: #0d6efd;
+  color: white;
+  border-color: #0d6efd;
+  margin-left: 5px;
+  font-size: 20px;
+   
+}
+.second{
+    display: flex;
+    width: 100%;
+    padding: 112px 0;
+   background-color: #f8f9fa;
+    justify-content: space-around;
+}
+.photo{
+    width: 320px;
+    height: 112px;
+margin: auto;
+
+text-align: center;
+}
+.photo i{
+    font-size: 4.5rem;
+    color: #0d6efd;
+    background-color: white;
+}
+.text1{
+   
+    width: 65%;
+    text-align: center;
+    margin: auto;
+}
+.text1 h3{
+    font-size: 28px;
+    color: #212529;
+    font-weight: 400;
+}
+.text1 p{
+    font-size: 20px;
+    color: #212529;
+}
+.cart{
+    width: 660px;
+    text-align: center;
+
+}
+.design{
+ width: 100%;
+ display: flex;
+}
+.tablet{
+   
+    height: 30rem;
+padding: 112px;
+    
+}
+
+.wekil{
+    width: 50%;
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg);
+}
+.tablet p{
+   font-size: 20px;
+   color: #212529;
+   width: 98%;
+   font-weight: 300;
+}
+.txt{
+    width: 50%;
+   
+}
+.tablet h2{
+    font-size: 32px;
+    color: #212529;
+    margin-bottom: 7px;
+}
+.mobile{
+    height: 30rem;
+    padding: 112px;
+        
+}
+.uptated{
+    width: 100%;
+    display: flex;
+    
+}
+.uptated .pht{
+    width: 50%;
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 380px;
+    background-size: cover;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg);
+}
+.mobile h2{
+    font-size: 32px;
+    color: #212529;
+    margin-bottom: 7px;
+}
+.mobile p{
+    font-size: 20px;
+    color: #212529;
+    width: 98%;
+    font-weight: 300;
+}
+.people .say{
+    font-size: 22px;
+  color: #212529;
+  text-align: center;
+  margin-top: 150px;
+}
+.foto i{
+    border-radius: 100%;
+}
+
+
+
